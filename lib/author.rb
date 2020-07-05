@@ -10,7 +10,7 @@ def post
 
 end
 def add_post(p)
-Post.author = p
+p.author = self
 end
 def add_post_by_title
 
