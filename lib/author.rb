@@ -18,7 +18,8 @@ def add_post_by_title(post_title)
 
 end
 
-def post_count
 
+def post_count
+Post.all.count
 end
 end
