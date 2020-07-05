@@ -10,7 +10,7 @@ def post
 
 end
 def add_post(arg_post)
-self.arg_post = post
+self.arg_post
 end
 def add_post_by_title
 
