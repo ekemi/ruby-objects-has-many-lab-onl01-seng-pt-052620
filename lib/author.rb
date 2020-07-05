@@ -9,8 +9,8 @@ end
 def post
 
 end
-def add_post(arg_post)
-self.arg_post
+def add_post(p)
+self.p
 end
 def add_post_by_title
 
